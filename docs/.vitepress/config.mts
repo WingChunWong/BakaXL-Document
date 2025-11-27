@@ -25,7 +25,7 @@ export default defineConfig({
       {
         rel: 'icon',
         type: 'image/png',
-        href: '/favicon.ico',
+        href: './favicon.ico',
       },
     ],
   ],
