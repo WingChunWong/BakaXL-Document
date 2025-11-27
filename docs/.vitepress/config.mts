@@ -16,7 +16,7 @@ import {
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/',
+  base: '/BakaXL-Document',
   srcDir: 'src',
   assetsDir: 'assets',
   head: [
