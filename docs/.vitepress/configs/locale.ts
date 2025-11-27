@@ -20,7 +20,7 @@ export const getLocaleConfig = (lang: string) => {
     ['meta', { property: 'og:url', content: siteLink }],
     ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { property: 'twitter:image', content: `${siteLink}/og.png` }],
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#914796' }],
   ]
 
